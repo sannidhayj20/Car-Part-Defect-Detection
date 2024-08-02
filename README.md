@@ -1,8 +1,3 @@
-It seems like I can’t do more advanced data analysis right now. Please try again later. However, I can help you draft the `README.md` for your AI-driven defect detection system based on the information you've provided so far.
-
-Here's a draft:
-
----
 
 # Advanced AI-Driven Defect Detection System
 
