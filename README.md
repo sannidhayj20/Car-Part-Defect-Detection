@@ -1,4 +1,3 @@
-
 # Advanced AI-Driven Defect Detection System
 
 ## Overview
@@ -11,14 +10,14 @@ Welcome to the repository for the Advanced AI-Driven Defect Detection System. Th
 - **Real-Time Analysis**: Processes images and data in real-time to provide instant feedback on potential defects.
 - **Cost Reduction**: Reduces costs associated with rework, recalls, and warranty claims by ensuring only high-quality components move forward in the manufacturing process.
 - **Scalability**: Designed to be scalable across various types of automotive parts and manufacturing setups.
-- **User-Friendly Interface**: Easy-to-use interface for operators and quality assurance personnel to interact with the system.
+- **User-Friendly Interface**: Easy-to-use Streamlit interface for operators and quality assurance personnel to interact with the system.
 
 ## Getting Started
 
 ### Prerequisites
 
 - Python 3.8 or higher
-- Jupyter Notebook
+- Streamlit
 - Required Python libraries (specified in `requirements.txt`)
 
 ### Installation
@@ -34,19 +33,21 @@ Welcome to the repository for the Advanced AI-Driven Defect Detection System. Th
     pip install -r requirements.txt
     ```
 
-3. Open the Jupyter Notebook:
+### Running the Application
+
+1. Prepare your dataset of automotive part images.
+2. Start the Streamlit application:
     ```bash
-    jupyter notebook
+    streamlit run app.py
     ```
 
-4. Navigate to the `car-part-models.ipynb` notebook and open it.
+3. Open your web browser and navigate to `http://localhost:8501` to interact with the application.
 
 ## Usage
 
-1. Prepare your dataset of automotive part images.
-2. Load the dataset into the notebook.
-3. Run the cells in the notebook to preprocess the data, train the AI model, and perform defect detection.
-4. Analyze the results and adjust the model parameters as needed.
+1. Upload your dataset of automotive part images through the Streamlit interface.
+2. The application will preprocess the data, run the AI model for defect detection, and display the results.
+3. Review the results and, if necessary, adjust the model parameters through the interface.
 
 ## Contributing
 
@@ -70,3 +71,11 @@ We welcome contributions from the community! Please follow these steps to contri
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+## Contact
+
+For questions or inquiries, please contact us at [your-email@example.com].
+
+---
+
+Feel free to adjust any details or add specific instructions related to your deployment process. If there are other elements you’d like included, let me know!
