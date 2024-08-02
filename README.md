@@ -72,10 +72,3 @@ We welcome contributions from the community! Please follow these steps to contri
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-## Contact
-
-For questions or inquiries, please contact us at [your-email@example.com].
-
----
-
-Feel free to adjust any details or add specific instructions related to your deployment process. If there are other elements you’d like included, let me know!
