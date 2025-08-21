@@ -38,7 +38,7 @@ Welcome to the repository for the Advanced AI-Driven Defect Detection System. Th
 1. Prepare your dataset of automotive part images.
 2. Start the Streamlit application:
     ```bash
-    streamlit run app.py
+    streamlit run Deployedstreamlitsol.py
     ```
 
 3. Open your web browser and navigate to `http://localhost:8501` to interact with the application.
