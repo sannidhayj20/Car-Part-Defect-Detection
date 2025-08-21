@@ -24,7 +24,7 @@ Welcome to the repository for the Advanced AI-Driven Defect Detection System. Th
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo/ai-defect-detection.git
+    git clone https://github.com/sannidhayj20/Car-Part-Defect-Detection.git
     cd ai-defect-detection
     ```
 
@@ -48,27 +48,4 @@ Welcome to the repository for the Advanced AI-Driven Defect Detection System. Th
 1. Upload your dataset of automotive part images through the Streamlit interface.
 2. The application will preprocess the data, run the AI model for defect detection, and display the results.
 3. Review the results and, if necessary, adjust the model parameters through the interface.
-
-## Contributing
-
-We welcome contributions from the community! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. Make your changes and commit them:
-    ```bash
-    git commit -m "Add feature"
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature-name
-    ```
-5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
 
